@@ -39,4 +39,4 @@ _Belarusian State Agrarian Technical University_
 * _Сost accounting_
 
 ### __About myself:__
-
+_Extensive experience in sales. I lead the attraction of clients by the method of cold sales. In my work I focus on achieving results and fulfilling the sales plan. I have the skills to develop sales from scratch._
