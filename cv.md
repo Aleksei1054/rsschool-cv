@@ -24,3 +24,5 @@ _Sales Manager Category 2:_
 
 _Belarusian State Agrarian Technical University_
 ###  Faculty: _Entrepreneurship and management_
+* _Economist-manager_
+
