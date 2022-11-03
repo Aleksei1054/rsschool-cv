@@ -37,3 +37,6 @@ _Belarusian State Agrarian Technical University_
 * _Looking for new clients_
 * _Document flow_
 * _Сost accounting_
+
+### __About myself:__
+
