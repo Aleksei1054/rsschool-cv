@@ -27,3 +27,5 @@ _Belarusian State Agrarian Technical University_
 * _Economist-manager_
 
 ### __Skills:__
+
+* _Confident PC user_
