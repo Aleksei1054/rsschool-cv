@@ -15,6 +15,7 @@ _Sales Manager Category 2:_
 * _Expansion of the range of purchased products_
 * _Study of consumer demand_
 * _Providing a sales plan for current and new customers_
+* _Organization of meetings with the clients, conducting of presentations, negotiations_
 
 
 
