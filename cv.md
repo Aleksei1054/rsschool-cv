@@ -29,3 +29,4 @@ _Belarusian State Agrarian Technical University_
 ### __Skills:__
 
 * _Confident PC user_
+* _Grammatically correct speech_
