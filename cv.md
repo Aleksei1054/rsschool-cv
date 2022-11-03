@@ -11,6 +11,7 @@ __Сontacts:__
 
 _Sales Manager Category 2:_
 
+* _Maintaining a customer base_
 
 
 
