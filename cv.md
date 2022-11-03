@@ -21,3 +21,5 @@ _Sales Manager Category 2:_
 
 
 ### __Education__
+
+_Belarusian State Agrarian Technical University_
