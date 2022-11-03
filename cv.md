@@ -33,3 +33,4 @@ _Belarusian State Agrarian Technical University_
 * _Conclusion of contracts_
 * _Sales management_
 * _Sales planning_
+* _Negotiation_
