@@ -13,6 +13,7 @@ _Sales Manager Category 2:_
 
 * _Maintaining a customer base_
 * _Expansion of the range of purchased products_
+* _Study of consumer demand_
 
 
 
