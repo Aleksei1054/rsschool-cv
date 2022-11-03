@@ -31,3 +31,4 @@ _Belarusian State Agrarian Technical University_
 * _Confident PC user_
 * _Grammatically correct speech_
 * _Conclusion of contracts_
+* _Sales management_
