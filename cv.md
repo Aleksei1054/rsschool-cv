@@ -26,4 +26,4 @@ _Belarusian State Agrarian Technical University_
 ###  Faculty: _Entrepreneurship and management_
 * _Economist-manager_
 
-### __Skills__
+### __Skills:__
