@@ -20,3 +20,4 @@ _Sales Manager Category 2:_
 * _Making reports_
 
 
+### __Education__
