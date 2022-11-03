@@ -17,5 +17,6 @@ _Sales Manager Category 2:_
 * _Providing a sales plan for current and new customers_
 * _Organization of meetings with the clients, conducting of presentations, negotiations_
 * _Maintaining primary documentation, checking up of debit liability_
+* _Making reports_
 
 
