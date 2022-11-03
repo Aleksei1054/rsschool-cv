@@ -36,3 +36,4 @@ _Belarusian State Agrarian Technical University_
 * _Negotiation_
 * _Looking for new clients_
 * _Document flow_
+* _Сost accounting_
