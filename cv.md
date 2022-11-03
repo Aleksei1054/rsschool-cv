@@ -32,3 +32,4 @@ _Belarusian State Agrarian Technical University_
 * _Grammatically correct speech_
 * _Conclusion of contracts_
 * _Sales management_
+* _Sales planning_
